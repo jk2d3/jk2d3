@@ -11,7 +11,7 @@
 
 ---
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Junaid-Khan&label=5780&color=3&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=Junaid-Khan&label=5780&color=5&icon=5&pretty=true" />
 </a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
